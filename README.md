@@ -5,3 +5,9 @@ This study provides deep phenotyping of 633 AAP patients based on data from more
 
 The Genome Wide Association (GWA) Study investigates ~2.500.000 Single Nucleotide Polymorphisms(SNPs) spread across the genome with emphasis on the exome. We will link individual SNPs as well as biological pathways to the risk of developing AAP. Cases from the phenotype study will be compared to international controls. DNA on 230 cases and >1500 controls have been collected. The study will provide new insights into genes related to developing AAP, and validate genes found in previous GWA studies on AAP6,7.
 This study will provide new knowledge on AAP, and thereby improve treatment of childhood ALL in patients in high risk of AAP.
+
+#
+The study is conducted by PhD student Benjamin Ole Wolthers, MD.
+For LinkedIn resume: https://dk.linkedin.com/in/benjamin-wolthers-11b48734
+e-mail: Benjamin_Wolthers@hms.harvard.edu
+
